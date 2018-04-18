@@ -65,7 +65,7 @@
 		},
 		{
 			"name": "puppetlabs/concat",
-			"version_requirement": "2.x"
+			"version_requirement": "1.x"
 		},
 		{
 			"name": "puppetlabs/docker",
